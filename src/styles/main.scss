@@ -1,0 +1,70 @@
+$primary-color: #D7B46B;
+
+*{
+    font-family: "Lato", serif;
+}
+
+.border-primary-color{
+    border: 1px solid $primary-color;
+    border-radius: 15px;
+    p{
+        color: $primary-color;
+    }
+}
+.background-primary{
+    background-color: $primary-color;
+    color: white;
+}
+.img-fruit{
+    height: 235px;
+    border-radius: 15px 15px 0px 0px;
+}
+.fs-8{
+    font-size: 15px;
+}
+.btn-ordenar{
+    width: 100px;
+    border-radius: 50px;
+}
+.card-header{
+    border-radius: 15px 15px 0px 0px;
+}
+.size-card{
+border: none;
+
+}
+.primary-color{
+    color: $primary-color;
+}
+
+.positionSticky{
+    position: sticky;
+    top: 10px;
+    z-index: 1000;
+}
+.card-general-info{
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #F9F9F9;
+    .list-group-item{
+        background-color: #F9F9F9;
+    }
+}
+.shadow-body{
+    border-radius: 0px 0px  15px 15px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.subtitle{
+    color: $primary-color;
+    font-weight: 400;
+}
+.btn-more{
+    width: 200px;
+    margin: 5px;
+}
+
+.button-order,
+.select-filter,
+.filter-search{
+    width: 165px;
+}
