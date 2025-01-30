@@ -43,6 +43,8 @@ Para iniciar el servidor de desarrollo, ejecuta:
 
 - npm run dev
 
+- **Se debe tener activado los permisos de CORS para que pueda permitir la consulta a la API**
+
 
 ## Dependencias
 - React
