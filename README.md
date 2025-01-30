@@ -31,7 +31,7 @@ Este proyecto es una aplicación web para consultar y mostrar información sobre
 
 2. Navega al directorio del proyecto:
 
-- cd season-fruits
+- cd retoBackbone
 
 3. Instala las dependencias:
 
