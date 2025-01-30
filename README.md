@@ -44,7 +44,6 @@ Para iniciar el servidor de desarrollo, ejecuta:
 
 npm run dev
 
-La aplicación estará disponible en http://localhost:3000. 
 
 ## Dependencias
 - React
